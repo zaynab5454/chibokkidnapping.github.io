@@ -1,0 +1,48 @@
+<html>
+<meta charset="UTF-8">
+
+<head>
+	<title>Chibok Kidnapping</title>
+</head>
+
+<body>
+	
+	<div class="header"
+	<h1>Kidnapping of Chibok Schoolgirls by Boko Haram in Nigera</h1>
+	<p> On April 14, 2014 276 Christian girls (16-18) were taken from the Government Girls Secondary School by a terrorist group.</p>
+	</div>
+.header {
+	padding:70px;
+	text-align: center;
+	backround;#DEB887;
+	color: white
+}
+<div class="row">
+	<div class="side">...</div>
+	div class="main">...</div>
+</div>
+* {
+	box-sizing: border box
+}
+
+.row {
+	display: flex;
+	flex-wrap:wrap;
+}
+
+.side {
+	flez: 30%;
+	backround-color: white;
+	padding: 20px;
+}
+
+<div class="footer">
+	<h2>Thank you for listening!</h2>
+</dov>
+.footer {
+	padding: 20px;
+	text-align: center;
+	backround: #FAEBD7;
+</body>
+
+</html>
